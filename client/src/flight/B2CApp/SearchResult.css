@@ -1,0 +1,14 @@
+.box-shadow-inner{
+  box-shadow: inset 0px 0px 5px rgb(72, 89, 92);
+}
+.box-shadow-header{
+  box-shadow: 0px 0px 5px  gray;
+}
+
+body{
+  background-color: rgb(242, 242, 240);
+}
+
+.searchResult{
+  background-color: rgb(255, 255, 255);
+}
